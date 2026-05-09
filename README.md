@@ -59,14 +59,21 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<h3>My GitHub Stats</h3><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=chenuka01&theme=dark" alt="chenuka01" /></p>
-<br><br><br><br><br>
- <p align="center">
-   <br><br><br><br><br>
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chenuka01&theme=github-compact" alt="Contribution Graph"/>
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chenuka01&theme=radical" alt="GitHub Streak Stats"/>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chenuka01&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chenuka01" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=chenuka01&show_icons=true&locale=en&theme=chartreuse-dark" alt="chenuka01" width="410" /></p>
-<br><br><br><br><br>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chenuka01&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenuka01&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chenuka01&theme=react-dark" alt="Contribution Graph"/>
+</div>
