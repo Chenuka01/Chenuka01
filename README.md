@@ -30,11 +30,11 @@
 
 <h3 align="left">📊 GitHub Statistics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chenuka01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chenuka01&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenuka01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenuka01&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
